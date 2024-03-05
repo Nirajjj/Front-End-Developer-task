@@ -144,10 +144,7 @@ button {
     grid-template-columns: 1fr;
     width: 70vw;
   }
-  .photo-gallary div {
-    /* width: 50vw;
-    height: 50vh; */
-  }
+
   .photo-gallary div img {
     width: 100%;
   }
